@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;/CollectionView&#x5c01;&#x88c5;/&#x56fe;&#x7247;&#x4e0b;&#x8f7d;/OPWebImageView.m"
+            timestampString = "485258677.027044"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "-setImageWithURLString:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;/CollectionView&#x5c01;&#x88c5;/&#x56fe;&#x7247;&#x4e0b;&#x8f7d;/DownloadImageManager.m"
+            timestampString = "485258295.409951"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "+sharedManager"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__37+[DownloadImageManager sharedManager]_block_invoke"
+                  moduleName = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouying/Desktop/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/CollectionView%E5%B0%81%E8%A3%85/%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD/DownloadImageManager.m"
+                  timestampString = "485258295.412406"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "72">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouying/Desktop/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/CollectionView%E5%B0%81%E8%A3%85/%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD/DownloadImageManager.m"
+                  timestampString = "485258295.412604"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhouying/Desktop/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/collection%E5%B0%81%E8%A3%85%E5%9B%BE%E7%89%87%E5%BE%AA%E7%8E%AF%E6%92%AD%E6%94%BE/CollectionView%E5%B0%81%E8%A3%85/%E5%9B%BE%E7%89%87%E4%B8%8B%E8%BD%BD/DownloadImageManager.m"
+                  timestampString = "485258295.412746"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "8">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;/CollectionView&#x5c01;&#x88c5;/&#x56fe;&#x7247;&#x4e0b;&#x8f7d;/DownloadImageManager.m"
+            timestampString = "485258328.77625"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "65"
+            endingLineNumber = "65"
+            landmarkName = "-downloadImageWithURLString:complete:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "collection&#x5c01;&#x88c5;&#x56fe;&#x7247;&#x5faa;&#x73af;&#x64ad;&#x653e;/CollectionView&#x5c01;&#x88c5;/&#x56fe;&#x7247;&#x4e0b;&#x8f7d;/DownloadImageManager.m"
+            timestampString = "485258329.956062"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "-downloadImageWithURLString:complete:"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
