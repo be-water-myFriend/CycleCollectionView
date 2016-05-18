@@ -12,5 +12,5 @@
 &nbsp; 2&gt;导入必须的头文件 &nbsp;#import &quot;OPView.h&quot;<br />
 <br />
 <br />
-使用方法如下,具体可参照demo项目:<br />
+具体可参照demo项目:<br />
 
