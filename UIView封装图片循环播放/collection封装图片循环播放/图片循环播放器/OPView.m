@@ -26,7 +26,6 @@
 
 
 @property (nonatomic, strong)UICollectionView *collectionView;
-@property (nonatomic, strong)UIPageControl *pageCtrl;
 @property (nonatomic, strong)NSTimer *timer;
 @end
 @implementation OPView
@@ -55,6 +54,9 @@
         
         //创建页码
         [self addSubview:self.pageCtrl];
+        
+        //添加定时器
+        self.interval= 1.0;
         [self addTimer];
     }
     return self;
@@ -128,7 +130,7 @@
 #pragma mark - 定时器操作
 - (void)addTimer
 {
-    self.timer = [NSTimer scheduledTimerWithTimeInterval:1.0f target:self selector:@selector(nextPage) userInfo:nil repeats:YES];
+    self.timer = [NSTimer scheduledTimerWithTimeInterval:self.interval target:self selector:@selector(nextPage) userInfo:nil repeats:YES];
     [[NSRunLoop mainRunLoop] addTimer:self.timer forMode:NSRunLoopCommonModes];
 }
 
